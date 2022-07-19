@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676418588766",
+    "project_id": "simandra-pnbp",
+    "storage_bucket": "simandra-pnbp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676418588766:android:da549ebd6feae1f8b7e4cf",
+        "android_client_info": {
+          "package_name": "com.simandra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676418588766-4nvo5cl2fft49hud5gscngdkjbtqqb8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNqW2B8JrGduFYRmXxlstflN9Bw977Ksg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676418588766-4nvo5cl2fft49hud5gscngdkjbtqqb8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

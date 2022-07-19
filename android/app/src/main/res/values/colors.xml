@@ -1,0 +1,5 @@
+<resources>
+    <color name="primary_dark">#F5FCFF</color>
+    <color name="status_bar_color">#0049AD</color>
+    <color name="colorAccent">#0049AD</color>
+</resources>

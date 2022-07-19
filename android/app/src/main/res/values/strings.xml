@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PNBP Mobile</string>
+    <string name="default_notification_channel_id">PNBP Mobile</string>
+</resources>
